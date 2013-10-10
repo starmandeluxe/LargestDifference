@@ -1,4 +1,9 @@
-
+/*
+ *  In array A, find the largest difference between  
+ *  A[Q] and A[P] such that Q > P.
+ * 
+ * 
+ */
 public class LargestDifference {
 
 	public static void main(String[] args) {
@@ -6,7 +11,7 @@ public class LargestDifference {
 
 	}
 	
-	 //find the largest difference between A[Q] and A[P] such that Q > P.
+	
 	public static int solution(int[] A)
 	{
 		int N = A.length;
